@@ -1,0 +1,2 @@
+This is a file.
+It will be part of a git repository.
